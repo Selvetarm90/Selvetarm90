@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi%2C+&#128075;+I'm+Aleksey)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi,+&#128075;+I'm+Aleksey)](https://git.io/typing-svg)
 
 
 ## Несколько слов обо мне 👨‍💻
