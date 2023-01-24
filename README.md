@@ -27,6 +27,6 @@
 
 ### Some statistics 📈
 
-<a href="https://github.com/Selvetarm90/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api?username=Selvetarm90&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Selvetarm90/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selvetarm90&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/Selvetarm90/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selvetarm90&layout=compact&theme=buefy&hide_border=true" /></a>
 
 [![codewars](https://www.codewars.com/users/Selvetarm90/badges/large)](https://www.codewars.com/users/Selvetarm90)
