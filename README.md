@@ -11,22 +11,18 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Some statistics 📈
+
+<a href="https://github.com/Selvetarm90/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selvetarm90&layout=compact&theme=buefy&hide_border=true" /></a>[![codewars](https://www.codewars.com/users/Selvetarm90/badges/large)](https://www.codewars.com/users/Selvetarm90)
+
 
 ## Connect with me: 🖊️
 
 - 📫 Telegram: **https://t.me/AlekseyP73**
 - 📧 Mail: **paramonovav90@gmail.com**
-
-### Some statistics 📈
-
-<a href="https://github.com/Selvetarm90/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selvetarm90&layout=compact&theme=buefy&hide_border=true" /></a>
-
-[![codewars](https://www.codewars.com/users/Selvetarm90/badges/large)](https://www.codewars.com/users/Selvetarm90)
