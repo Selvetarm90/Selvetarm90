@@ -19,7 +19,9 @@
 
 ### Some statistics 📈
 
-<a href="https://github.com/Selvetarm90/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selvetarm90&layout=compact&theme=buefy&hide_border=true" /></a>[![codewars](https://www.codewars.com/users/Selvetarm90/badges/large)](https://www.codewars.com/users/Selvetarm90)
+<a href="https://github.com/Selvetarm90/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selvetarm90&layout=compact&theme=buefy&hide_border=true" /></a>
+
+[![codewars](https://www.codewars.com/users/Selvetarm90/badges/large)](https://www.codewars.com/users/Selvetarm90)
 
 
 ## Connect with me: 🖊️
